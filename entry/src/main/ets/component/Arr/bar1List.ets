@@ -1,0 +1,40 @@
+import set from "../interface/setInterface"
+
+const bar1List:set[] = [
+  {
+    img:'/assets/phone1.jpg',
+    title:'新品手机,8848钛合金,值得你得选择',
+    profile:"6666人评价,99%好评",
+    price:"￥9999"
+  },
+  {
+    img:'/assets/phone1.jpg',
+    title:'新品手机,8848钛合金,值得你得选择',
+    profile:"6666人评价,99%好评",
+    price:"￥9999"
+  },
+  {
+    img:'/assets/phone1.jpg',
+    title:'新品手机,8848钛合金,值得你得选择',
+    profile:"6666人评价,99%好评",
+    price:"￥9999"
+  },
+  {
+    img:'/assets/phone1.jpg',
+    title:'新品手机,8848钛合金,值得你得选择',
+    profile:"6666人评价,99%好评",
+    price:"￥9999"
+  },
+  {
+    img:'/assets/phone1.jpg',
+    title:'新品手机,8848钛合金,值得你得选择',
+    profile:"6666人评价,99%好评",
+    price:"￥9999"
+  },
+  {
+    img:'/assets/phone1.jpg',
+    title:'新品手机,8848钛合金,值得你得选择',
+    profile:"6666人评价,99%好评",
+    price:"￥9999"
+  },
+]
